@@ -1,0 +1,17 @@
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.DAL\bin\Debug\net6.0\ESFE.arqLimpia.DAL.deps.json
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.DAL\bin\Debug\net6.0\ESFE.arqLimpia.DAL.dll
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.DAL\bin\Debug\net6.0\ESFE.arqLimpia.DAL.pdb
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.DAL\bin\Debug\net6.0\ESFE.arqLimpia.EN.Interfaces.dll
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.DAL\bin\Debug\net6.0\ESFE.arqLimpia.Ne.dll
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.DAL\bin\Debug\net6.0\ESFE.arqLimpia.EN.Interfaces.pdb
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.DAL\bin\Debug\net6.0\ESFE.arqLimpia.Ne.pdb
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.DAL\obj\Debug\net6.0\ESFE.arqLimpia.DAL.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.DAL\obj\Debug\net6.0\ESFE.arqLimpia.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.DAL\obj\Debug\net6.0\ESFE.arqLimpia.DAL.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.DAL\obj\Debug\net6.0\ESFE.arqLimpia.DAL.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.DAL\obj\Debug\net6.0\ESFE.arqLimpia.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.DAL\obj\Debug\net6.0\ESFE.arqLimpia.DAL.csproj.CopyComplete
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.DAL\obj\Debug\net6.0\ESFE.arqLimpia.DAL.dll
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.DAL\obj\Debug\net6.0\refint\ESFE.arqLimpia.DAL.dll
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.DAL\obj\Debug\net6.0\ESFE.arqLimpia.DAL.pdb
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.DAL\obj\Debug\net6.0\ref\ESFE.arqLimpia.DAL.dll
