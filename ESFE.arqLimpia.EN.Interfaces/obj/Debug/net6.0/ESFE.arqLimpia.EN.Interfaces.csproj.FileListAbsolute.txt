@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.EN.Interfaces\bin\Debug\net6.0\ESFE.arqLimpia.EN.Interfaces.deps.json
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.EN.Interfaces\bin\Debug\net6.0\ESFE.arqLimpia.EN.Interfaces.dll
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.EN.Interfaces\bin\Debug\net6.0\ESFE.arqLimpia.EN.Interfaces.pdb
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.EN.Interfaces\bin\Debug\net6.0\ESFE.arqLimpia.Ne.dll
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.EN.Interfaces\bin\Debug\net6.0\ESFE.arqLimpia.Ne.pdb
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.EN.Interfaces\obj\Debug\net6.0\ESFE.arqLimpia.EN.Interfaces.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.EN.Interfaces\obj\Debug\net6.0\ESFE.arqLimpia.EN.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.EN.Interfaces\obj\Debug\net6.0\ESFE.arqLimpia.EN.Interfaces.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.EN.Interfaces\obj\Debug\net6.0\ESFE.arqLimpia.EN.Interfaces.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.EN.Interfaces\obj\Debug\net6.0\ESFE.arqLimpia.EN.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.EN.Interfaces\obj\Debug\net6.0\ESFE.arqLimpia.EN.Interfaces.csproj.CopyComplete
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.EN.Interfaces\obj\Debug\net6.0\ESFE.arqLimpia.EN.Interfaces.dll
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.EN.Interfaces\obj\Debug\net6.0\refint\ESFE.arqLimpia.EN.Interfaces.dll
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.EN.Interfaces\obj\Debug\net6.0\ESFE.arqLimpia.EN.Interfaces.pdb
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.EN.Interfaces\obj\Debug\net6.0\ref\ESFE.arqLimpia.EN.Interfaces.dll

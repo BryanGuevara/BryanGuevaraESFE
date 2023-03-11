@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ESFE.arqLimpia.EN.Interfaces/1.0.0": {
+        "dependencies": {
+          "ESFE.arqLimpia.Ne": "1.0.0"
+        },
+        "runtime": {
+          "ESFE.arqLimpia.EN.Interfaces.dll": {}
+        }
+      },
+      "ESFE.arqLimpia.Ne/1.0.0": {
+        "runtime": {
+          "ESFE.arqLimpia.Ne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ESFE.arqLimpia.EN.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ESFE.arqLimpia.Ne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
