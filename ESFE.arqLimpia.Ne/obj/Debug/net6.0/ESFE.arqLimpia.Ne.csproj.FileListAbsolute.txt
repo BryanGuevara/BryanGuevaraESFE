@@ -1,0 +1,12 @@
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.Ne\bin\Debug\net6.0\ESFE.arqLimpia.Ne.deps.json
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.Ne\bin\Debug\net6.0\ESFE.arqLimpia.Ne.dll
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.Ne\bin\Debug\net6.0\ESFE.arqLimpia.Ne.pdb
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.Ne\obj\Debug\net6.0\ESFE.arqLimpia.Ne.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.Ne\obj\Debug\net6.0\ESFE.arqLimpia.Ne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.Ne\obj\Debug\net6.0\ESFE.arqLimpia.Ne.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.Ne\obj\Debug\net6.0\ESFE.arqLimpia.Ne.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.Ne\obj\Debug\net6.0\ESFE.arqLimpia.Ne.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.Ne\obj\Debug\net6.0\ESFE.arqLimpia.Ne.dll
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.Ne\obj\Debug\net6.0\refint\ESFE.arqLimpia.Ne.dll
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.Ne\obj\Debug\net6.0\ESFE.arqLimpia.Ne.pdb
+C:\Users\MINEDUCYT\Desktop\ESFE.arqLimpia\ESFE.arqLimpia.Ne\obj\Debug\net6.0\ref\ESFE.arqLimpia.Ne.dll
