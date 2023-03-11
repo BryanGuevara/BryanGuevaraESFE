@@ -1,0 +1,203 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ESFE.arqLimpia.BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ESFE.arqLimpia.BL.DTOs": "1.0.0",
+          "ESFE.arqLimpia.BL.Interfaces": "1.0.0",
+          "ESFE.arqLimpia.EN.Interfaces": "1.0.0",
+          "ESFE.arqLimpia.Ne": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ESFE.arqLimpia.BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ESFE.arqLimpia.BL.dll": {}
+        }
+      },
+      "ESFE.arqLimpia.BL.DTOs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ESFE.arqLimpia.BL.DTOs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ESFE.arqLimpia.BL.DTOs.dll": {}
+        }
+      },
+      "ESFE.arqLimpia.BL.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ESFE.arqLimpia.BL.DTOs": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ESFE.arqLimpia.BL.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ESFE.arqLimpia.BL.Interfaces.dll": {}
+        }
+      },
+      "ESFE.arqLimpia.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ESFE.arqLimpia.EN.Interfaces": "1.0.0",
+          "ESFE.arqLimpia.Ne": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ESFE.arqLimpia.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ESFE.arqLimpia.DAL.dll": {}
+        }
+      },
+      "ESFE.arqLimpia.EN.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ESFE.arqLimpia.Ne": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ESFE.arqLimpia.EN.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ESFE.arqLimpia.EN.Interfaces.dll": {}
+        }
+      },
+      "ESFE.arqLimpia.loC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ESFE.arqLimpia.BL": "1.0.0",
+          "ESFE.arqLimpia.DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ESFE.arqLimpia.loC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ESFE.arqLimpia.loC.dll": {}
+        }
+      },
+      "ESFE.arqLimpia.Ne/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ESFE.arqLimpia.Ne.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ESFE.arqLimpia.Ne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ESFE.arqLimpia.BL/1.0.0": {
+      "type": "project",
+      "path": "../ESFE.arqLimpia.BL/ESFE.arqLimpia.BL.csproj",
+      "msbuildProject": "../ESFE.arqLimpia.BL/ESFE.arqLimpia.BL.csproj"
+    },
+    "ESFE.arqLimpia.BL.DTOs/1.0.0": {
+      "type": "project",
+      "path": "../ESFE.arqLimpia.BL.DTOs/ESFE.arqLimpia.BL.DTOs.csproj",
+      "msbuildProject": "../ESFE.arqLimpia.BL.DTOs/ESFE.arqLimpia.BL.DTOs.csproj"
+    },
+    "ESFE.arqLimpia.BL.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../ESFE.arqLimpia.BL.Interfaces/ESFE.arqLimpia.BL.Interfaces.csproj",
+      "msbuildProject": "../ESFE.arqLimpia.BL.Interfaces/ESFE.arqLimpia.BL.Interfaces.csproj"
+    },
+    "ESFE.arqLimpia.DAL/1.0.0": {
+      "type": "project",
+      "path": "../ESFE.arqLimpia.DAL/ESFE.arqLimpia.DAL.csproj",
+      "msbuildProject": "../ESFE.arqLimpia.DAL/ESFE.arqLimpia.DAL.csproj"
+    },
+    "ESFE.arqLimpia.EN.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../ESFE.arqLimpia.EN.Interfaces/ESFE.arqLimpia.EN.Interfaces.csproj",
+      "msbuildProject": "../ESFE.arqLimpia.EN.Interfaces/ESFE.arqLimpia.EN.Interfaces.csproj"
+    },
+    "ESFE.arqLimpia.loC/1.0.0": {
+      "type": "project",
+      "path": "../ESFE.arqLimpia.loC/ESFE.arqLimpia.loC.csproj",
+      "msbuildProject": "../ESFE.arqLimpia.loC/ESFE.arqLimpia.loC.csproj"
+    },
+    "ESFE.arqLimpia.Ne/1.0.0": {
+      "type": "project",
+      "path": "../ESFE.arqLimpia.Ne/ESFE.arqLimpia.Ne.csproj",
+      "msbuildProject": "../ESFE.arqLimpia.Ne/ESFE.arqLimpia.Ne.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ESFE.arqLimpia.BL.DTOs >= 1.0.0",
+      "ESFE.arqLimpia.BL.Interfaces >= 1.0.0",
+      "ESFE.arqLimpia.loC >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MINEDUCYT\\Downloads\\ESFE.BELEN.ArqLimpia-main\\ESFE.arqLimpia.API\\ESFE.arqLimpia.API.csproj",
+      "projectName": "ESFE.arqLimpia.API",
+      "projectPath": "C:\\Users\\MINEDUCYT\\Downloads\\ESFE.BELEN.ArqLimpia-main\\ESFE.arqLimpia.API\\ESFE.arqLimpia.API.csproj",
+      "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MINEDUCYT\\Downloads\\ESFE.BELEN.ArqLimpia-main\\ESFE.arqLimpia.API\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\MINEDUCYT\\Downloads\\ESFE.BELEN.ArqLimpia-main\\ESFE.arqLimpia.BL.DTOs\\ESFE.arqLimpia.BL.DTOs.csproj": {
+              "projectPath": "C:\\Users\\MINEDUCYT\\Downloads\\ESFE.BELEN.ArqLimpia-main\\ESFE.arqLimpia.BL.DTOs\\ESFE.arqLimpia.BL.DTOs.csproj"
+            },
+            "C:\\Users\\MINEDUCYT\\Downloads\\ESFE.BELEN.ArqLimpia-main\\ESFE.arqLimpia.BL.Interfaces\\ESFE.arqLimpia.BL.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\MINEDUCYT\\Downloads\\ESFE.BELEN.ArqLimpia-main\\ESFE.arqLimpia.BL.Interfaces\\ESFE.arqLimpia.BL.Interfaces.csproj"
+            },
+            "C:\\Users\\MINEDUCYT\\Downloads\\ESFE.BELEN.ArqLimpia-main\\ESFE.arqLimpia.loC\\ESFE.arqLimpia.loC.csproj": {
+              "projectPath": "C:\\Users\\MINEDUCYT\\Downloads\\ESFE.BELEN.ArqLimpia-main\\ESFE.arqLimpia.loC\\ESFE.arqLimpia.loC.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
